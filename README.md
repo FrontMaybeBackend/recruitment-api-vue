@@ -1,7 +1,7 @@
 # Recruitment Application - Frontend
-
+git clone https://github.com/FrontMaybeBackend/recruitment-api-vue.git
 ## Run Project
-
+Then in project directory (recruitment-api-vue)
 Install dependencies:
 ```bash
 yarn install
